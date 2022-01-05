@@ -1,0 +1,9 @@
+# 100DaysOfSQL
+ <h1>1. 4 Jan 2022</h1>
+ <p>I started the 100 days of coding again as I'm currently on mat leave and would like to work on something while babe is napping in my arms. I'm not sure I can commit to having 100 days in order, or a full hour each day, but I'm going to try to do my best to complete a course before returning to work in May/June. Counting seems like a good way for me to try to build my habit!
+ <p>I called this 100 days of SQL; however, I'm really just looked to expand my knowledge broadly on various coding languages as to have a good base on several areas of data analysis or object-based programming. I understand the basics of Java and would like to understand the basics of data analysis next. 
+ <p>My overall goal will be to have a bit of a better undertanding of various languages and what they can be used for and basic syntax and structure of them. This, I hope, will allow me to have conversations with potential companies with respect to various career roles in the future.
+ <p>I started off auditing the US Davis course on Coursera to see some SQL in action. However, I felt this course was inadequate as relied entirely on video courses and without allowing for practical experience with coding. I'm moving on to the Data Analysis with Python on FreeCodeCamp.org. Yes - I do realise that this is literally not SQL so is silly to still be in "100 days of SQL;" however, I'm doing my best here! Based on my brief experience with SQL it seems very straightforward and it is more about understanding relational databases and knowing how to get what information you need, rather than the actual syntax. This, I feel, could come from practice using databases, regardless of the language or software you are using.
+  
+  <h2>2. 5 Jan 2022</h1>
+  <p>Ok back at it a few days later.
