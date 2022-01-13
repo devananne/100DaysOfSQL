@@ -4,7 +4,9 @@
 <p>Today I learned a bit more about the powers of Jupyter notebooks. You can use Matlib for creating a .png data visualisation, and Bokeh to create an interactive chart that can be zoomed in / moved around the data.</p>
  <li>Jupyter Notebook Cells</li>
  <li>Jupyter Notebooks Importing and Exporting Data</li>
- <li>
+ <li>Numpy Introduction </li>
+ <li>Numpy Introduction A</li>
+
  
  <h2>2. 7 Jan 2022</h2>
   <p>Ok back at it a few days later. Based on the intro videos, this seems like a much more appropriate course for what I'm interested in. This is about both the editing/cleaning/wrangling of data but also the analysis of it to determine useful information from a dataset. While I do think I would be good at this, it does make me wonder what kind of data I could potentially be analysing in the future. There is so much out there that while data analysis is a much-desired field, it could also get into something I'm not too keen on (e.g., personal data and advertisements). However, I'm intrigued how Python can be used to analyse data. Today I've completed: </p>
